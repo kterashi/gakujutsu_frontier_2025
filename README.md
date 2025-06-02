@@ -1,3 +1,3 @@
-# shonenji-semi-2024
+# gakujutsu_frontier_2025
 
-Jupyter notebook for Shonenji Seminar Science 2024
+Jupyter notebook for Gakujutsu Frontier Lecture 2025
